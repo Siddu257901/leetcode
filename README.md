@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Siddu257901/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddu257901/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Siddu257901/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Siddu257901/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
